@@ -1,0 +1,30 @@
+name: aviapp
+description: Mobile application that allows you to interact with drones, devices such as desktop models and scale models allowing you to control the speed
+  of motors and lights through Bluetooth connection
+
+version: 1.0.0
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_blue: ^0.8.0
+  syncfusion_flutter_gauges: ^19.1.58
+  custom_switch: ^0.0.1
+  flutter_launcher_icons:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+flutter_icons:
+  image_path: 'assets/icon.png'
+  android: true
+  ios: true

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flutter_app_esp32_dust_sensor.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<false/>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>D413EB34B38A30D0368A221AEFE7F452F381727C</string>
+				<key>dateExpires</key>
+				<string>10/23/22</string>
+				<key>type</key>
+				<string>Cloud Managed Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<false/>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D413EB34B38A30D0368A221AEFE7F452F381727C</string>
+						<key>dateExpires</key>
+						<string>10/23/22</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>App.framework</string>
+					<key>symbols</key>
+					<true/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>NR7QB2Z464</string>
+						<key>name</key>
+						<string>Arturo Paez</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>bitcode</key>
+					<false/>
+					<key>buildNumber</key>
+					<string>1</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>D413EB34B38A30D0368A221AEFE7F452F381727C</string>
+						<key>dateExpires</key>
+						<string>10/23/22</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Flutter.framework</string>
+					<key>symbols</key>
+					<true/>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>NR7QB2Z464</string>
+						<key>name</key>
+						<string>Arturo Paez</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>1.0.0</string>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>NR7QB2Z464.com.sargus.aviapp</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>NR7QB2Z464</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>NR7QB2Z464.com.sargus.aviapp</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Runner.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>e95df8ca-76af-49de-9176-c4ba83cea37c</string>
+				<key>dateExpires</key>
+				<string>10/23/22</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: com.sargus.aviapp</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>NR7QB2Z464</string>
+				<key>name</key>
+				<string>Arturo Paez</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
